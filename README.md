@@ -1,11 +1,11 @@
 # AI CLIs + Ollama + GitHub Codespaces (remote development enviornment)
 
-Skill repo to specifically setup claude code to run without wasting tokens. 
+Skill repo to specifically setup any AI CLI to run without wasting massive amounts of tokens. 
 
 Ultimately, you:
 
-1) Leverage Claude Opus 4.5 SOLELY for planning;
-2) Switch to locally running models in GH Codespaces;
+1) Leverage Claude Opus 4.5 (or flagship model at the time) SOLELY for planning;
+2) Switch to locally running models in GH Codespaces (remote development enviornment);
 3) Handle "grunt work" with GLM-4.7 or qwen3-coder (or models that can go on and on without fear of running out of tokens)
 
 See:
