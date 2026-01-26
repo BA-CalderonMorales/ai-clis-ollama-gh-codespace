@@ -11,8 +11,12 @@ Ultimately, you:
 See:
 
 - https://docs.ollama.com/quickstart:
-  - ollama pull glm-4.7-flash (this one can be downloaded if GitHub Codespaces, but it's slow man. So is gpt-oss:20b; and the quantized qwen3-coder models)
-  - ollama pull glm-4.7:cloud (this one requires subscription to ollama, would argue same quality as Claude Sonnet 4.5)
+  - ollama pull glm-4.7-flash
+    - This one can be downloaded if GitHub Codespaces, but it's slow man.
+    - So is gpt-oss:20b; and the quantized qwen3-coder models
+  - ollama pull glm-4.7:cloud
+    - This one requires subscription to ollama (I think, need to verify).
+    - Would argue same quality as Claude Sonnet 4.5 in terms of token output.
 - https://docs.factory.ai/cli/getting-started/quickstart (to download Claude Code, requirement for ollama to work)
 - https://code.claude.com/docs/en/quickstart (to download Droid, optional incase you want to try something other than Claude Code)
 
