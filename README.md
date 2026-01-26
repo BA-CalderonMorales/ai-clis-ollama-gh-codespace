@@ -1,4 +1,4 @@
-# claude-code-ollama-gh-codespace
+# AI CLIs + Ollama + GitHub Codespaces (remote development enviornment)
 
 Skill repo to specifically setup claude code to run without wasting tokens. 
 
