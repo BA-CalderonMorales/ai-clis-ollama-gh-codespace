@@ -23,3 +23,10 @@ See:
 Ultimately, I'm using this as a record for when I ended up starting to use models that don't require me to get an entire server rack or spending more than $200 for decent output.
 
 The bar is high folks.
+
+
+Update (02/25/2026): Spotted neat repo for future reference with GPU specs and models to leverage: 
+
+- [FrankenLLM](https://github.com/ChiefGyk3D/FrankenLLM)
+
+As I spot more repos, I'll also add them here.
