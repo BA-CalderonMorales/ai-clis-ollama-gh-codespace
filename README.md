@@ -1,6 +1,12 @@
 # AI CLIs + Ollama + GitHub Codespaces (remote development enviornment)
 
-Skill repo to specifically setup any AI CLI to run without wasting massive amounts of tokens. 
+Skill repo to specifically setup any AI CLI to run without wasting massive amounts of tokens.
+
+## Table of Contents
+
+- [Quick Start](#quick-start)
+- [See Also](#see-also)
+- [Updates](#updates) 
 
 Ultimately, you:
 
