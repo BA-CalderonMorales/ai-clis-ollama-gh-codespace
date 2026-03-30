@@ -30,3 +30,11 @@ Update (02/25/2026): Spotted neat repo for future reference with GPU specs and m
 - [FrankenLLM](https://github.com/ChiefGyk3D/FrankenLLM)
 
 As I spot more repos, I'll also add them here.
+
+Update (03/30/2026): Small but powerful local models are getting very good. If you have a machine with at least a decent GPU, you can run specific "point" models (small-parameter variants) that punch well above their weight. Qwen models in particular are worth tracking here:
+
+- `qwen3-coder` (quantized variants) - small enough for local GPU inference, strong coding performance
+- `qwen2.5` series - open source, available in multiple sizes, the smaller quantizations run comfortably on consumer GPUs
+- These are not toy models. The latest open-source releases from the Qwen team rival flagship APIs for many coding and reasoning tasks.
+
+The landscape is shifting fast. Local + capable + open source is no longer a compromise.
