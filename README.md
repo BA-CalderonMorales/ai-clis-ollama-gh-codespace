@@ -5,8 +5,10 @@ Skill repo to specifically setup any AI CLI to run without wasting massive amoun
 ## Table of Contents
 
 - [Quick Start](#quick-start)
-- [See Also](#see-also)
-- [Updates](#updates) 
+- [References](#references)
+- [Updates](#updates)
+
+## Quick Start
 
 Ultimately, you:
 
@@ -14,7 +16,7 @@ Ultimately, you:
 2) Switch to locally running models in GH Codespaces (remote development enviornment);
 3) Handle "grunt work" with GLM-4.7 or qwen3-coder (or models that can go on and on without fear of running out of tokens)
 
-See:
+## References
 
 - https://docs.ollama.com/quickstart:
   - ollama pull glm-4.7-flash
@@ -30,14 +32,15 @@ Ultimately, I'm using this as a record for when I ended up starting to use model
 
 The bar is high folks.
 
+## Updates
 
-Update (02/25/2026): Spotted neat repo for future reference with GPU specs and models to leverage: 
+**Update (02/25/2026):** Spotted neat repo for future reference with GPU specs and models to leverage:
 
 - [FrankenLLM](https://github.com/ChiefGyk3D/FrankenLLM)
 
 As I spot more repos, I'll also add them here.
 
-Update (03/30/2026): Small but powerful local models are getting very good. If you have a machine with at least a decent GPU, you can run specific "point" models (small-parameter variants) that punch well above their weight. Qwen models in particular are worth tracking here:
+**Update (03/30/2026):** Small but powerful local models are getting very good. If you have a machine with at least a decent GPU, you can run specific "point" models (small-parameter variants) that punch well above their weight. Qwen models in particular are worth tracking here:
 
 - `qwen3-coder` (quantized variants) - small enough for local GPU inference, strong coding performance
 - `qwen2.5` series - open source, available in multiple sizes, the smaller quantizations run comfortably on consumer GPUs
