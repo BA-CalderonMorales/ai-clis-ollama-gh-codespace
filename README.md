@@ -8,6 +8,9 @@ Skill repo to specifically setup any AI CLI to run without wasting massive amoun
 - [References](#references)
 - [Updates](#updates)
 
+
+> *Note: If these links do not respond in the GitHub Mobile app, try viewing in a browser. This is a known platform limitation.*
+
 ## Quick Start
 
 Ultimately, you:
